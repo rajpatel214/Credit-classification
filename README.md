@@ -25,11 +25,7 @@ We implemented various machine learning models to classify credit status. The da
 
 ### Models Used and Accuracy:
 1. **Logistic Regression** - 70%
-2. **Support Vector Machine (SVC)** - 71%
-3. **Decision Tree Classifier** - 72%
-4. **Random Forest Classifier** - 75%
-5. **K-Nearest Neighbors (KNN)** - 71%
-6. **Ensemble Learning**:
+2. **Ensemble Learning**:
    - **Voting Classifier** (Logistic Regression, KNN, Random Forest) - 71%
    - **Bagging Classifier** (Decision Tree as base estimator) - 72%
    - **AdaBoost Classifier** - **75% (Best Performing Model)**
